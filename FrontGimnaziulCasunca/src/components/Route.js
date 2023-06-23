@@ -132,7 +132,9 @@ export const AddStudentForm = () => {
   return (
 
     <div>
-    <Link to = "/"><h3><b>Home</b></h3></Link>
+      
+      <Link to = "/"><button><h3><b>Home</b></h3></button></Link>
+      
 
       <form>
       <h2>Add/Modify elev:</h2>

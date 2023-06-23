@@ -48,7 +48,9 @@ export const Home = () => {
         )}
         
   <div>
-    <Link to = "/login"><h3><b>Log In</b></h3></Link>
+    
+      <Link to = "/login"><button><h3><b>Log In</b></h3></button></Link>
+    
   </div>
      </div>
       
